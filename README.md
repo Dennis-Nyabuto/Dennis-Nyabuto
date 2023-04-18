@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm currently working on Data Analysis<br>I'm looking to collaborate on ML-Model-Deployment<br>I'm looking for help with<br>I'm currently learning Data Science<br>Ask me about Data Science, SQL, BI, Tableau, R, Python, ML<br>How to reach me dennisnyabuto@gmail.com<br>Fun fact - Enjoy what you are doing
+- 🔭 I'm currently working on Data Analysis<br>- 👯 I'm looking to collaborate on ML-Model-Deployment<br>- 🌱 I’m currently learning on Data science<br> - 🤔I'm looking for help with<br>- 💬 Ask me about Data Science, SQL, BI, Tableau, R, Python, ML<br>- 💬 How to reach me dennisnyabuto@gmail.com<br>- ⚡ Fun fact - Enjoy what you are doing
 
 
 ## 🌐 Socials:
