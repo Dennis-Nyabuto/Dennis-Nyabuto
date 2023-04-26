@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Dennis from Kenya,and I do Data Analysis. I really enjoy learning languages and Data Visualization tools like Python and Power BI, as well as Tableau. 
 <!--
 **Dennis-Nyabuto/Dennis-Nyabuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +20,7 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
+<a href="https://linkedin.com/in/dennis nyabuto" target="blank"><img align="center"
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dennis-nyabuto/) 
 
 # 💻 Tech Stack:
