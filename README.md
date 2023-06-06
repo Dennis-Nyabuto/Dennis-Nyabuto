@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-I'm Dennis from Kenya,and I do Data Analysis. I really enjoy learning languages and Data Visualization tools like Python and Power BI, as well as Tableau. 
+I'm Dennis from Kenya, I am a Data Scientist, passionate about solving problems and using data insights to positively improve people's lives.
+
+I create Machine Learning algorithms to predict outcomes, improve models and also perform market segmentation.
+I am also proficient in statistical analysis, market research, dashboard creation, report writing, and project management.
+I have experience analyzing data to find trends and patterns, collecting, cleaning, and validating data for uniformity and accuracy. 
+
+Some of the Data tools I'm familiar with are R, Python, STATA, SQL, SPSS, Tableau, and PowerBi.
+
+I am creative, detail-oriented, self-motivated, independent, and I work well in a dynamic team. 
 <!--
 **Dennis-Nyabuto/Dennis-Nyabuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
